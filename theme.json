@@ -1,0 +1,1811 @@
+{
+  ",\"theme_light\":": {
+    "\"-brandExperiment\"": "\"var(--main-color)\",\"-headerPrimary\""
+  },
+  ",\"root\":": {
+    "\"-appBackground\"": "\"url(\\\"https"
+  },
+  ",\"body__after\":": {
+    "\"willChange\"": "\"opacity, filter\",\"WebkitAnimation\""
+  },
+  ",\"class__appMount\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__app\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__chat\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__bg\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"app_mount____class__typeMacOS\":": {
+    "\"height\"": "\"18px\",\"marginTop\""
+  },
+  ",\"app_mount____class__typeWindows\":": {
+    "\"height\"": "\"18px\",\"marginTop\""
+  },
+  ",\"class__chat______class__header_____class__content\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__chat______class__content_____div\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__wrapper\":": {
+    "\"border\"": "\"none\""
+  },
+  ",\"class__sidebar_____nav___div_first_child\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.1) !important\""
+  },
+  ",\"class__base______class__content______nth_child_2__section_class__container\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.1) !important\""
+  },
+  ",\"class__base______class__content______nth_last_child_2__section_class__container\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.1) !important\""
+  },
+  ",\"button\":": {
+    "\"transition\"": "\"color 0.2s ease-in-out, background-color 0.2s ease-in-out\""
+  },
+  ",\"button_class__lookFilled___class__colorGrey\":": {
+    "\"background\"": "\"var(--accent-color-semitransparent) !important\",\"color\""
+  },
+  ",\"button_class__lookFilled___class__colorPrimary\":": {
+    "\"background\"": "\"var(--accent-color-semitransparent) !important\",\"color\""
+  },
+  ",\"button_class__lookFilled___class__colorGrey__hover\":": {
+    "\"background\"": "\"var(--accent-color-semitransparent) !important\",\"color\""
+  },
+  ",\"button_class__lookFilled___class__colorPrimary___hover\":": {
+    "\"background\"": "\"var(--accent-color-semitransparent) !important\",\"color\""
+  },
+  ",\"button_class__colorBrand___not__class__lookBlank____class__lookLink\":": {
+    "\"background\"": "\"var(--main-color)\",\"color\""
+  },
+  ",\"button_class__colorBrand___not__class__lookBlank____class__lookLink___hover\":": {
+    "\"background\"": "\"var(--main-color-selected)\",\"color\""
+  },
+  ",\"button_class__colorBrand___class__lookInverted\":": {
+    "\"background\"": "\"var(--button-text-selected)\",\"color\""
+  },
+  ",\"button_class__colorBrand___class__lookInverted__hover\":": {
+    "\"background\"": "\"var(--button-text)\",\"color\""
+  },
+  ",\"button_class__lookOutlined___not__class__lookBlank\":": {
+    "\"color\"": "\"var(--button-text)\",\"borderColor\""
+  },
+  ",\"button_class__colorGreen\":": {
+    "\"background\"": "\"var(--main-color) !important\",\"color\""
+  },
+  ",\"button_class__colorRed\":": {
+    "\"background\"": "\"var(--main-color) !important\",\"color\""
+  },
+  ",\"button_class__colorGreen___hover\":": {
+    "\"background\"": "\"var(--main-color-selected) !important\",\"color\""
+  },
+  ",\"button_class__colorRed___hover\":": {
+    "\"background\"": "\"var(--main-color-selected) !important\",\"color\""
+  },
+  ",\"button_class__lookLink\":": {
+    "\"color\"": "\"var(--button-text)\""
+  },
+  ",\"button_class__lookLink___hover\":": {
+    "\"textDecoration\"": "\"none !important\",\"color\""
+  },
+  ",\"button_class__lookLink___class__colorLink\":": {
+    "\"color\"": "\"var(--accent-color)\""
+  },
+  ",\"button_class__lookLink___class__colorLink___hover\":": {
+    "\"color\"": "\"var(--accent-saturated)\""
+  },
+  ",\"button_class__lookLink______class__contents\":": {
+    "\"background\"": "\"none !important\",\"borderBottom\""
+  },
+  ",\"button_class__lookLink___hover____class__contents\":": {
+    "\"background\"": "\"none !important\",\"borderColor\""
+  },
+  ",\"class__control____class__container\":": {
+    "\"background\"": "\"var(--accent-color-semitransparent) !important\""
+  },
+  ",\"class__control____class__container___style___rgb_35\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__control____class__container___style___rgb_35_____class__slider__path\":": {
+    "\"fill\"": "\"var(--main-color)\""
+  },
+  ",\"input\":": {
+    "\"transition\"": "\"all 0.3s\""
+  },
+  ",\"input_focus\":": {
+    "\"borderColor\"": "\"var(--accent-desaturated) !important\",\"boxShadow\""
+  },
+  ",\"class__inputDefault\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.3)\""
+  },
+  ",\"aria_checked_true___class__iconContainer__svg___path_first_child\":": {
+    "\"fill\"": "\"var(--main-color)\""
+  },
+  ",\"aria_checked_true___class__iconContainer__svg___path_last_child\":": {
+    "\"fill\"": "\"var(--button-text-selected) !important\""
+  },
+  ",\"class__select__class__lookFilled\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2)\",\"borderColor\""
+  },
+  ",\"class__select__class__lookFilled__class__open\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.9)\""
+  },
+  ",\"class__popout__role_listbox\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.9)\""
+  },
+  ",\"class__slider______class__bar\":": {
+    "\"background\"": "\"var(--accent-color-semitransparent) !important\""
+  },
+  ",\"class__slider______class__bar____class__barFill\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__colorPrimary\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__tooltipGrey\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\",\"border\""
+  },
+  ",\"class__tooltipPrimary\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\",\"border\""
+  },
+  ",\"class__tooltipGreen\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\",\"border\""
+  },
+  ",\"class__tooltipGrey___class__tooltipPointer\":": {
+    "\"borderTopColor\"": "\"rgb(0, 0, 0) !important\""
+  },
+  ",\"class__tooltipPrimary___class__tooltipPointer\":": {
+    "\"borderTopColor\"": "\"rgb(0, 0, 0) !important\""
+  },
+  ",\"class__tooltipGreen___class__tooltipPointer\":": {
+    "\"borderTopColor\"": "\"rgb(0, 0, 0) !important\""
+  },
+  ",\"class__layerContainer______class__toolbar\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\",\"border\""
+  },
+  ",\"class__layerContainer______class__toolbar___before\":": {
+    "\"borderTopColor\"": "\"rgb(0, 0, 0) !important\""
+  },
+  ",\"class__backdrop\":": {
+    "\"background\"": "\"linear-gradient(rgba(0, 0, 0, 0.1333333333), black) !important\""
+  },
+  ",\"class__pro\":": {
+    "\"color\"": "\"var(--accent-saturated) !important\""
+  },
+  ",\"class__protip\":": {
+    "\"color\"": "\"var(--accent-saturated) !important\""
+  },
+  ",\"class__channelTextArea\":": {
+    "\"borderRadius\"": "\"8px\""
+  },
+  ",\"class__channelTextArea___class__scrollableContainer\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.1)\""
+  },
+  ",\"class__channelTextArea___class__scrollableContainer___class__attachWrapper\":": {
+    "\"borderRightColor\"": "\"rgba(255, 255, 255, 0.1)\""
+  },
+  ",\"class__channelTextArea___class__autocomplete\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__channelTextArea___class__autocompleteInner\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.9) !important\",\"borderColor\""
+  },
+  ",\"class__channelTextArea___class__autocompleteRow_____class__selected\":": {
+    "\"background\"": "\"var(--main-color-semitransparent-selected) !important\""
+  },
+  ",\"class__channelTextArea_____class__container______class__containerBackground\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\",\"borderColor\""
+  },
+  ",\"class__channelTextArea___class__inner___class__buttons_____class__grow\":": {
+    "\"display\"": "\"none !important\""
+  },
+  ",\"class__channelAppLauncher___app_launcher_entrypoint___button\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.1)\""
+  },
+  ",\"class__floating____section\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.1) !important\""
+  },
+  ",\"class__floating___before\":": {
+    "\"content\"": "\"\\\"\\\"\",\"top\""
+  },
+  ",\"class__drawerSizingWrapper______class__contentWrapper\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.9) !important\""
+  },
+  ",\"class__drawerSizingWrapper______class__contentWrapper____class__navList______class__navItem______class__navButtonActive\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__drawerSizingWrapper______class__contentWrapper____class__unicodeShortcut\":": {
+    "\"background\"": "\"#000\""
+  },
+  ",\"class__drawerSizingWrapper______class__contentWrapper____class__inspector\":": {
+    "\"background\"": "\"#000\""
+  },
+  ",\"class__followButton\":": {
+    "\"background\"": "\"var(--main-color) !important\",\"color\""
+  },
+  ",\"class__followButton__hover\":": {
+    "\"background\"": "\"var(--main-color-selected) !important\",\"color\""
+  },
+  ",\"id__chat_messages___class__description___class__colorBrand\":": {
+    "\"background\"": "\"rgba(0, 255, 128, 0.1) !important\",\"color\""
+  },
+  ",\"id__chat_messages___class__description___class__colorBrand__hover\":": {
+    "\"background\"": "\"rgba(0, 255, 128, 0.2) !important\",\"color\""
+  },
+  ",\"id__chat_messages___class__description___class__colorBrand__class__selected\":": {
+    "\"background\"": "\"rgba(0, 255, 128, 0.2) !important\",\"color\""
+  },
+  ",\"id__chat_messages___class__description___class__colorPrimary\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2) !important\",\"color\""
+  },
+  ",\"id__chat_messages___class__description___class__colorPrimary__hover\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.4) !important\",\"color\""
+  },
+  ",\"id__chat_messages___class__description___class__colorPrimary__class__selected\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.4) !important\",\"color\""
+  },
+  ",\"id__chat_messages___class__description___class__coloRed\":": {
+    "\"background\"": "\"var(--main-color) !important\",\"color\""
+  },
+  ",\"id__chat_messages___class__description___class__coloRed__hover\":": {
+    "\"background\"": "\"var(--main-color-selected) !important\",\"color\""
+  },
+  ",\"class__chatContent__form____class__wrapper\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.3)\""
+  },
+  ",\"class__chatContent__form____class__wrapper__button_not__class__lookBlank____class__barButtonBase\":": {
+    "\"background\"": "\"var(--main-color) !important\",\"color\""
+  },
+  ",\"class__chatContent__form____class__wrapper__button_not__class__lookBlank____class__barButtonBase___hover\":": {
+    "\"background\"": "\"var(--main-color-selected) !important\",\"color\""
+  },
+  ",\"class__reactions____class__reaction___not__class__reactionCount____class__reactionBtn\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2) !important\",\"transform\""
+  },
+  ",\"class__reactions____class__reaction___not__class__reactionCount____class__reactionBtn___hover\":": {
+    "\"borderColor\"": "\"transparent\""
+  },
+  ",\"class__reactions____class__reaction___not__class__reactionCount____class__reactionBtn___img\":": {
+    "\"transform\"": "\"scale(1.2)\""
+  },
+  ",\"class__reactions____class__reaction___not__class__reactionCount____class__reactionBtn___class__reactionMe\":": {
+    "\"borderColor\"": "\"var(--main-color)\",\"background\""
+  },
+  ",\"class__reactionCount\":": {
+    "\"color\"": "\"var(--accent-color) !important\""
+  },
+  ",\"class__layerContainer____class__layer____class__reactors\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__layerContainer____class__layer____class__reactors___div_not__class__contents\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__layerContainer____class__layer____class__menu\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\",\"boxShadow\""
+  },
+  ",\"class__layerContainer____class__layer____class__menu____class__wrapper___img\":": {
+    "\"width\"": "\"30px !important\",\"height\""
+  },
+  ",\"class__messagesPopoutWrap\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__uploadDropModal___class__bgScale\":": {
+    "\"background\"": "\"var(--profile-activity) !important\""
+  },
+  ",\"class__uploadDropModal___class__icons\":": {
+    "\"filter\"": "\"hue-rotate(110deg) contrast(1.3) !important\""
+  },
+  ",\"class__uploadModal\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\",\"boxShadow\""
+  },
+  ",\"class__uploadModal___class__footer\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__uploadModal__label_class__checked___class__checkbox\":": {
+    "\"background\"": "\"var(--main-color) !important\",\"borderColor\""
+  },
+  ",\"class__uploadModal__label_class__checked___class__checkbox__svg_path\":": {
+    "\"fill\"": "\"#fff !important\""
+  },
+  ",\"id__message_content_Uploader____div_class__attachment\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.3)\",\"borderColor\""
+  },
+  ",\"id__message_content_Uploader____div_class__attachment___class__progressBar\":": {
+    "\"background\"": "\"var(--accent-color) !important\""
+  },
+  ",\"id__message_accessories_____class__embedWrapper\":": {
+    "\"background\"": "\"var(--accent-color-semitransparent) !important\",\"borderColor\""
+  },
+  ",\"class__messageAttachment\":": {
+    "\"borderColor\"": "\"#000 !important\""
+  },
+  ",\"class__messageAttachment_____class__attachment\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2) !important\""
+  },
+  ",\"class__messageAttachment_____class__embedWrapper\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2) !important\""
+  },
+  ",\"class__messageAttachment__code\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__messageAttachment___class__textContainer____div\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2) !important\""
+  },
+  ",\"id__message_content___class__mention\":": {
+    "\"color\"": "\"var(--accent-desaturated)\",\"background\""
+  },
+  ",\"id__message_content___class__mention__hover\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.4) !important\""
+  },
+  ",\"class__mentioned\":": {
+    "\"background\"": "\"linear-gradient(90deg, transparent 5px, var(--accent-color-semitransparent) 5px, transparent 80%) !important\""
+  },
+  ",\"class__mentioned___class__mention\":": {
+    "\"color\"": "\"var(--accent-saturated)\",\"background\""
+  },
+  ",\"class__mentioned___before\":": {
+    "\"left\"": "\"1px\",\"borderRadius\""
+  },
+  ",\"class__message___class__buttonContainer___class__container___class__wrapper\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95)\""
+  },
+  ",\"class__recentMentionsPopout\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__layer___emoji_picker_tab_panel_class__wrapper\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__layer___emoji_picker_tab_panel_class__wrapper___class__emojiItem\":": {
+    "\"transition\"": "\"transform 0.2s ease-in-out\""
+  },
+  ",\"class__layer___emoji_picker_tab_panel_class__wrapper___class__emojiItemSelected\":": {
+    "\"background\"": "\"rgba(255, 255, 255, 0.3)\",\"transform\""
+  },
+  ",\"class__threadSidebar\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95)\""
+  },
+  ",\"class__layer___class__browser\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__hasThread___class__cta\":": {
+    "\"color\"": "\"var(--accent-color) !important\""
+  },
+  ",\"class__messagesWrapper___class__content___class__divider\":": {
+    "\"borderColor\"": "\"transparent\",\"backgroundColor\""
+  },
+  ",\"class__messagesWrapper___class__content___class__divider___class__content\":": {
+    "\"color\"": "\"var(--accent-saturated) !important\",\"width\""
+  },
+  ",\"class__messagesWrapper___class__content___class__divider__not__class__isUnread_____span\":": {
+    "\"color\"": "\"rgba(255, 255, 255, 0.7) !important\",\"background\""
+  },
+  ",\"class__messagesWrapper___class__content___class__divider___class__isUnread\":": {
+    "\"background\"": "\"transparent !important\",\"color\""
+  },
+  ",\"class__unreadPill\":": {
+    "\"background\"": "\"var(--main-color-semitransparent) !important\",\"color\""
+  },
+  ",\"class__unreadPillCap\":": {
+    "\"visibility\"": "\"hidden\""
+  },
+  ",\"id__status_picker\":": {
+    "\"transition\"": "\"background 200ms ease-out\""
+  },
+  ",\"account_status_picker__online\":": {
+    "\"color\"": "\"#43b581\""
+  },
+  ",\"account_status_picker__online_class__focused\":": {
+    "\"background\"": "\"rgba(67, 181, 130, 0.2666666667)\""
+  },
+  ",\"account_status_picker__idle\":": {
+    "\"color\"": "\"#faa61a\""
+  },
+  ",\"account_status_picker__idle_class__focused\":": {
+    "\"background\"": "\"rgba(250, 168, 26, 0.2588235294)\""
+  },
+  ",\"account_status_picker__dnd\":": {
+    "\"color\"": "\"#f04747\""
+  },
+  ",\"account_status_picker__dnd_class__focused\":": {
+    "\"background\"": "\"rgba(184, 58, 60, 0.2392156863)\""
+  },
+  ",\"account_status_picker__invisible\":": {
+    "\"color\"": "\"#747f8d\""
+  },
+  ",\"account_status_picker__invisible_class__focused\":": {
+    "\"background\"": "\"rgba(116, 127, 141, 0.2392156863)\""
+  },
+  ",\"account_status_picker__custom_status_class__focused\":": {
+    "\"background\"": "\"rgba(255, 77, 181, 0.2392156863)\""
+  },
+  ",\"class__newMessagesBar\":": {
+    "\"background\"": "\"var(--main-color) !important\",\"padding\""
+  },
+  ",\"class__jumpToPresentBar\":": {
+    "\"background\"": "\"var(--accent-desaturated) !important\",\"padding\""
+  },
+  ",\"id__message_accessories______class__wrapper\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2)\""
+  },
+  ",\"id__message_accessories______class__wrapper___class__guildIconImage\":": {
+    "\"backgroundColor\"": "\"rgba(0, 0, 0, 0.2)\""
+  },
+  ",\"class__title___class__search\":": {
+    "\"order\"": "\"1\",\"marginLeft\""
+  },
+  ",\"class__title___class__search___class__search__not__class__open____class__searchBar\":": {
+    "\"width\"": "\"27px\",\"transition\""
+  },
+  ",\"class__title___class__search___class__search__not__class__open____class__searchBar___class__iconContainer\":": {
+    "\"transform\"": "\"scale(1.3)\",\"transition\""
+  },
+  ",\"class__title___class__search___class__search__not__class__open____class__searchBar___class__iconContainer___class__icon\":": {
+    "\"color\"": "\"var(--interactive-normal)\""
+  },
+  ",\"class__title___class__search___class__search__not__class__open___hover__class__searchBar\":": {
+    "\"width\"": "\"240px\",\"background\""
+  },
+  ",\"class__title___class__search___class__search__not__class__open___hover__class__searchBar___class__iconContainer\":": {
+    "\"transform\"": "\"scale(1)\""
+  },
+  ",\"class__title___class__search___class__search__not__class__open___hover__class__searchBar___class__iconContainer___class__icon\":": {
+    "\"color\"": "\"var(--text-muted)\""
+  },
+  ",\"class__DraftEditor___class__searchFilter\":": {
+    "\"background\"": "\"var(--main-color)\""
+  },
+  ",\"class__DraftEditor___class__searchAnswer\":": {
+    "\"background\"": "\"var(--main-color)\""
+  },
+  ",\"id__popout_____class__container\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95)\",\"boxShadow\""
+  },
+  ",\"id__popout_____class__container___class__resultsGroup\":": {
+    "\"textAlign\"": "\"center\""
+  },
+  ",\"id__popout_____class__container___class__resultsGroup___class__selected\":": {
+    "\"background\"": "\"var(--main-color-semitransparent-selected)\""
+  },
+  ",\"id__popout_____class__container___class__resultsGroup___class__option__hover\":": {
+    "\"background\"": "\"var(--main-color-semitransparent-selected)\""
+  },
+  ",\"id__popout_____class__container___class__resultsGroup___before\":": {
+    "\"visibility\"": "\"hidden !important\""
+  },
+  ",\"id__popout_____class__container___class__resultsGroup___class__option___after\":": {
+    "\"visibility\"": "\"hidden !important\""
+  },
+  ",\"id__popout_____class__container___class__queryContainer\":": {
+    "\"background\"": "\"rgb(0, 0, 0)\""
+  },
+  ",\"id__popout_____class__container___class__queryContainer__span\":": {
+    "\"background\"": "\"var(--main-color)\""
+  },
+  ",\"id__popout_____class__container___class__searchLearnMore\":": {
+    "\"display\"": "\"none\""
+  },
+  ",\"class__datePicker\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.9) !important\""
+  },
+  ",\"class__datePicker___class__hintValue\":": {
+    "\"marginLeft\"": "\"5px\",\"background\""
+  },
+  ",\"class__datePicker___class__hintValue__hover\":": {
+    "\"background\"": "\"var(--main-color-selected) !important\",\"color\""
+  },
+  ",\"class__react_datepicker\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__react_datepicker___class__month_____class__week___class__day__not__class__day__disabled\":": {
+    "\"background\"": "\"var(--main-color-semitransparent) !important\""
+  },
+  ",\"class__react_datepicker___class__month_____class__week___class__day__not__class__day__disabled___hover\":": {
+    "\"background\"": "\"var(--main-color-semitransparent-selected) !important\""
+  },
+  ",\"class__react_datepicker___class__month_____class__week___class__selected\":": {
+    "\"background\"": "\"var(--main-color-semitransparent-selected) !important\""
+  },
+  ",\"class__react_datepicker___class__month_____class__week___class__selected___after\":": {
+    "\"background\"": "\"var(--main-color-semitransparent-selected) !important\""
+  },
+  ",\"class__react_datepicker___class__month_____class__week___class__outside_month__not__class__day__disabled\":": {
+    "\"background\"": "\"var(--main-color-semitransparent) !important\",\"opacity\""
+  },
+  ",\"class__searchResultsWrap___class__channelSeparator___class__channelName\":": {
+    "\"background\"": "\"transparent\",\"textAlign\""
+  },
+  ",\"class__searchResultsWrap___class__channelSeparator___class__channelName__hover\":": {
+    "\"background\"": "\"var(--main-color-semitransparent-selected)\",\"textDecoration\""
+  },
+  ",\"class__searchResultsWrap___class__searchHeader\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.3) !important\",\"borderBottomLeftRadius\""
+  },
+  ",\"class__searchResultsWrap___class__searchResult__class__expanded\":": {
+    "\"borderColor\"": "\"transparent !important\",\"borderBottom\""
+  },
+  ",\"class__searchResultsWrap___class__searchResult___class__searchResultMessage__class__after\":": {
+    "\"opacity\"": "\"0.15 !important\""
+  },
+  ",\"class__searchResultsWrap___class__searchResult___class__searchResultMessage__class__before\":": {
+    "\"opacity\"": "\"0.15 !important\""
+  },
+  ",\"class__actionButtons___class__jumpButton\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.3) !important\",\"borderRadius\""
+  },
+  ",\"class__actionButtons___class__jumpButton__hover\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.6) !important\",\"color\""
+  },
+  ",\"class__pageControlContainer\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.3) !important\",\"borderTopLeftRadius\""
+  },
+  ",\"class__pageControlContainer___class__activeButton\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__pageControlContainer___class__roundButton__not__class__activeButton___hover\":": {
+    "\"background\"": "\"var(--main-color-semitransparent) !important\""
+  },
+  ",\"class__backgroundFlash\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__backgroundFlash__li\":": {
+    "\"background\"": "\"var(--accent-color-semitransparent) !important\",\"borderRadius\""
+  },
+  ",\"class__replyBar\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.1)\",\"marginTop\""
+  },
+  ",\"class__replyBar___class__colorLink\":": {
+    "\"color\"": "\"var(--button-text)\""
+  },
+  ",\"class__channelAttachmentArea____li\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.1) !important\""
+  },
+  ",\"class__channelAttachmentArea____li__class__actionBar___class__wrapper\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.7) !important\""
+  },
+  ",\"code\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2) !important\""
+  },
+  ",\"code__hljs_keyword\":": {
+    "\"color\"": "\"var(--accent-desaturated) !important\""
+  },
+  ",\"code__hljs_title\":": {
+    "\"color\"": "\"var(--accent-saturated) !important\""
+  },
+  ",\"code__hljs_literal\":": {
+    "\"color\"": "\"var(--main-color-selected) !important\""
+  },
+  ",\"code__hljs_string\":": {
+    "\"color\"": "\"var(--button-text) !important\""
+  },
+  ",\"code__hljs_attribute\":": {
+    "\"color\"": "\"var(--accent-desaturated) !important\""
+  },
+  ",\"code__hljs_selector_class\":": {
+    "\"color\"": "\"var(--accent-saturated) !important\""
+  },
+  ",\"code__hljs_number\":": {
+    "\"color\"": "\"var(--main-color-selected) !important\""
+  },
+  ",\"code__hljs_selector_tag\":": {
+    "\"color\"": "\"var(--accent-desaturated) !important\""
+  },
+  ",\"class__replying\":": {
+    "\"backgroundColor\"": "\"rgba(0, 0, 0, 0.1) !important\""
+  },
+  ",\"class__replying___before\":": {
+    "\"left\"": "\"3px\",\"borderRadius\""
+  },
+  ",\"class__categoryFadeBlurple\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__chat__form\":": {
+    "\"margin\"": "\"0\""
+  },
+  ",\"src___avatars_214676791955161091___class__clickable\":": {
+    "\"WebkitAnimation\"": "\"rotate1 40s linear infinite\",\"animation\""
+  },
+  ",\"style___avatars_214676791955161091___class__avatar\":": {
+    "\"WebkitAnimation\"": "\"rotate1 40s linear infinite\",\"animation\""
+  },
+  ",\"src___avatars_221743310744715265___class__clickable\":": {
+    "\"WebkitAnimation\"": "\"rotate2 40s linear infinite\",\"animation\""
+  },
+  ",\"style___avatars_221743310744715265___class__avatar\":": {
+    "\"WebkitAnimation\"": "\"rotate2 40s linear infinite\",\"animation\""
+  },
+  ",\"app\":": {
+    "\"willChange\"": "\"opacity, filter\",\"WebkitAnimation\""
+  },
+  ",\"class__connection__div_nth_child_2__button_nth_child_2\":": {
+    "\"backgroundColor\"": "\"transparent\",\"backgroundImage\"",
+    "base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4gICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPiAgICA8cGF0aCBkPSJNMTIgOWMtMS42IDAtMy4xNS4yNS00LjYuNzJ2My4xYzAgLjM5LS4yMy43NC0uNTYuOS0uOTguNDktMS44NyAxLjEyLTIuNjYgMS44NS0uMTguMTgtLjQzLjI4LS43LjI4LS4yOCAwLS41My0uMTEtLjcxLS4yOUwuMjkgMTMuMDhjLS4xOC0uMTctLjI5LS40Mi0uMjktLjcgMC0uMjguMTEtLjUzLjI5LS43MUMzLjM0IDguNzggNy40NiA3IDEyIDdzOC42NiAxLjc4IDExLjcxIDQuNjdjLjE4LjE4LjI5LjQzLjI5LjcxIDAgLjI4LS4xMS41My0uMjkuNzFsLTIuNDggMi40OGMtLjE4LjE4LS40My4yOS0uNzEuMjktLjI3IDAtLjUyLS4xMS0uNy0uMjgtLjc5LS43NC0xLjY5LTEuMzYtMi42Ny0xLjg1LS4zMy0uMTYtLjU2LS41LS41Ni0uOXYtMy4xQzE1LjE1IDkuMjUgMTMuNiA5IDEyIDl6Ii8+PC9zdmc+) !important\",\"backgroundPosition\"": "\"center\",\"backgroundRepeat\""
+  },
+  ",\"class__connection__div_nth_child_2__button_nth_child_2__svg\":": {
+    "\"display\"": "\"none\""
+  },
+  ",\"class__connection__div_nth_child_2__button_nth_child_2__hover\":": {
+    "\"WebkitAnimation\"": "\"disconnect1 0.06s infinite alternate\",\"animation\""
+  },
+  ",\"class__scroller\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__wrapper__class__guilds___class__listItemWrapper____a\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.6)\",\"borderColor\""
+  },
+  ",\"class__wrapper__class__guilds___class__listItemWrapper____a_hover\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.7)\""
+  },
+  ",\"class__wrapper__class__guilds___class__folder\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__wrapper__class__guilds___class__closedFolderIconWrapper\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__wrapper__class__guilds___class__expandedFolderBackground\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__wrapper__class__guilds___class__folderIconWrapper\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.3) !important\",\"borderRadius\""
+  },
+  ",\"class__wrapper__class__guilds___class__expandedFolderBackground__not__class__collapsed\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.3) !important\",\"borderRadius\""
+  },
+  ",\"class__wrapper__class__guilds___class__circleIconButton\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.3) !important\",\"color\""
+  },
+  ",\"class__wrapper__class__guilds___class__footer\":": {
+    "\"background\"": "\"transparent\""
+  },
+  ",\"class__wrapper__class__guilds___bd_pub_button\":": {
+    "\"backgroundColor\"": "\"rgba(0, 0, 0, 0.3) !important\""
+  },
+  ",\"class__wrapper__class__guilds__foreignObject____class__wrapper_____class__childWrapper\":": {
+    "\"backgroundColor\"": "\"rgba(0, 0, 0, 0.3) !important\""
+  },
+  ",\"class__wrapper__class__guilds__foreignObject____class__wrapper____img\":": {
+    "\"backgroundColor\"": "\"rgba(0, 0, 0, 0.3) !important\""
+  },
+  ",\"class__wrapper__class__guilds__foreignObject____class__wrapper__class__selected_____class__childWrapper\":": {
+    "\"backgroundColor\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__unreadMentionsIndicator_____class__bar\":": {
+    "\"background\"": "\"var(--main-color)\""
+  },
+  ",\"class__colorPickerCustom\":": {
+    "\"background\"": "\"rgb(0, 0, 0) !important\",\"borderColor\""
+  },
+  ",\"button_style__background_color__rgb_88__101__242\":": {
+    "\"background\"": "\"var(--accent-color) !important\""
+  },
+  ",\"svg_style__color__rgb_88__101__242_____path\":": {
+    "\"fill\"": "\"var(--accent-color)\""
+  },
+  ",\"class__header__h3\":": {
+    "\"color\"": "\"rgba(255, 255, 255, 0.8)\""
+  },
+  ",\"class__footer__h3\":": {
+    "\"color\"": "\"rgba(255, 255, 255, 0.8)\""
+  },
+  ",\"class__footerButton\":": {
+    "\"background\"": "\"var(--main-color) !important\",\"color\""
+  },
+  ",\"class__footerButton__hover\":": {
+    "\"background\"": "\"var(--main-color-selected) !important\",\"color\""
+  },
+  ",\"class__listItem_____class__wrapper_____class__target___before\":": {
+    "\"background\"": "\"var(--accent-color)\""
+  },
+  ",\"class__listItem_____class__wrapper_____class__centerTarget___before\":": {
+    "\"background\"": "\"var(--accent-color)\""
+  },
+  ",\"header_h1_class__name\":": {
+    "\"fontSize\"": "\"18px\",\"fontWeight\""
+  },
+  ",\"class__sidebar___class__selected__header\":": {
+    "\"background\"": "\"transparent\""
+  },
+  ",\"class__labelContainer__svg\":": {
+    "\"transition\"": "\"transform 0.2s ease-in-out\""
+  },
+  ",\"class__labelContainer__class__focused\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__labelContainer__class__focused__svg\":": {
+    "\"transform\"": "\"scale(1.2)\""
+  },
+  ",\"class__tabBarItem__hover\":": {
+    "\"borderBottomColor\"": "\"var(--main-color-selected) !important\""
+  },
+  ",\"class__tabBarItem__class__da_selected\":": {
+    "\"borderBottomColor\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__sidebar___class__containerDefault___class__icon\":": {
+    "\"color\"": "\"rgba(255, 255, 255, 0.6) !important\""
+  },
+  ",\"class__sidebar___class__containerDefault___class__icon____path\":": {
+    "\"opacity\"": "\"0.6\""
+  },
+  ",\"class__sidebar___class__containerDefault___class__icon____path_last_of_type\":": {
+    "\"opacity\"": "\"0.9\""
+  },
+  ",\"class__sidebar___class__containerDefault___class__content__hover\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__sidebar___class__containerDefault___class__modeMuted___class__name\":": {
+    "\"color\"": "\"rgba(255, 255, 255, 0.5)\""
+  },
+  ",\"class__sidebar___class__containerDefault___class__muted___class__name\":": {
+    "\"color\"": "\"rgba(255, 255, 255, 0.5)\""
+  },
+  ",\"class__sidebar___class__containerDefault___class__modeSelected___class__link\":": {
+    "\"background\"": "\"var(--main-color-semitransparent-selected) !important\""
+  },
+  ",\"class__sidebar___class__containerDefault___class__modeSelected___class__name\":": {
+    "\"color\"": "\"#ffffff !important\""
+  },
+  ",\"class__sidebar___class__containerDefault__hover__class__modeSelected___class__link\":": {
+    "\"background\"": "\"var(--main-color-semitransparent-selected) !important\""
+  },
+  ",\"class__sidebar___class__containerDefault___class__children_____class__icon__nth_last_child_2\":": {
+    "\"display\"": "\"none !important\""
+  },
+  ",\"data_list_item_id__active_threads___class__name\":": {
+    "\"color\"": "\"var(--button-text) !important\""
+  },
+  ",\"data_list_item_id__active_threads___class__icon\":": {
+    "\"color\"": "\"var(--button-text) !important\""
+  },
+  ",\"class__avatarSpeaking\":": {
+    "\"boxShadow\"": "\"inset 0 0 0 2px var(--accent-color), inset 0 0 0 3px var(--accent-color-semitransparent)\""
+  },
+  ",\"class__avatarSpeaking___before\":": {
+    "\"content\"": "\"\\\"\\\"\",\"zIndex\""
+  },
+  ",\"class__userLimit_____class__wrapper\":": {
+    "\"borderRadius\"": "\"5px !important\""
+  },
+  ",\"class__userLimit___class__total\":": {
+    "\"color\"": "\"var(--accent-saturated)\",\"background\""
+  },
+  ",\"class__userLimit___class__total___after\":": {
+    "\"borderRightColor\"": "\"rgba(0, 0, 0, 0.4) !important\""
+  },
+  ",\"class__userLimit___class__users\":": {
+    "\"color\"": "\"var(--accent-color)\",\"background\""
+  },
+  ",\"nav_class__container_____class__container____header_hover\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__layer___class__animator___class__container__class__scrollerBase\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__panels\":": {
+    "\"borderTop\"": "\"1px solid var(--background-modifier-accent)\""
+  },
+  ",\"class__panels_____class__activityPanel\":": {
+    "\"border\"": "\"0\""
+  },
+  ",\"class__panels_____class__container\":": {
+    "\"border\"": "\"0\""
+  },
+  ",\"class__panels_____class__activityPanel__button_hover\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2) !important\""
+  },
+  ",\"class__panels_____class__container__button_hover\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2) !important\""
+  },
+  ",\"class__panels_____class__wrapper_____class__container\":": {
+    "\"border\"": "\"0\""
+  },
+  ",\"class__panels___class__actionButtons__button\":": {
+    "\"background\"": "\"var(--main-color-semitransparent) !important\",\"color\""
+  },
+  ",\"class__panels___class__actionButtons__button_hover\":": {
+    "\"background\"": "\"var(--main-color-semitransparent-selected) !important\",\"color\""
+  },
+  ",\"class__focusLock___class__modal\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__focusLock___class__modal___class__horizontalReverse\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__focusLock___class__modal___class__radioBar____div_not__class__info___circle\":": {
+    "\"fill\"": "\"var(--main-color) !important\""
+  },
+  ",\"aria_label_GUILD_SETTINGS___class__sidebar___class__item__hover\":": {
+    "\"background\"": "\"var(--main-color-semitransparent) !important\",\"color\""
+  },
+  ",\"aria_label_GUILD_SETTINGS___class__sidebar___class__item__class__selected\":": {
+    "\"background\"": "\"var(--main-color-semitransparent-selected) !important\",\"color\""
+  },
+  ",\"class__circleButton\":": {
+    "\"backgroundColor\"": "\"var(--main-color-semitransparent) !important\""
+  },
+  ",\"class__circleButton__hover\":": {
+    "\"backgroundColor\"": "\"var(--main-color-semitransparent-selected) !important\""
+  },
+  ",\"class__stickyHeaderElevated___before\":": {
+    "\"content\"": "\"\\\"\\\"\",\"top\""
+  },
+  ",\"class__content______class__emojiRow___class__card\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__emojiRemove\":": {
+    "\"backgroundColor\"": "\"var(--main-color-semitransparent-selected) !important\""
+  },
+  ",\"class__contentExpandContainer___class__header___class__backgroundModifierContainer\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2) !important\""
+  },
+  ",\"class__contentExpandContainer___class__groupCollapsedContainer\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2) !important\""
+  },
+  ",\"class__clickableContainer___class__backgroundModifierContainer\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2) !important\""
+  },
+  ",\"class__contentExpandContainer___class__selected___class__statusGreen\":": {
+    "\"background\"": "\"rgba(0, 230, 77, 0.2) !important\""
+  },
+  ",\"class__contentExpandContainer___class__selected___class__statusYellow\":": {
+    "\"background\"": "\"rgba(255, 196, 0, 0.2) !important\""
+  },
+  ",\"class__contentExpandContainer___class__selected___class__statusOrange\":": {
+    "\"background\"": "\"rgba(242, 97, 0, 0.2) !important\""
+  },
+  ",\"class__contentExpandContainer___class__selected___class__statusRed\":": {
+    "\"background\"": "\"rgba(244, 40, 40, 0.2) !important\""
+  },
+  ",\"role_list_____class__auditLog\":": {
+    "\"borderColor\"": "\"#000 !important\""
+  },
+  ",\"role_list_____class__auditLog_____class__header\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2) !important\""
+  },
+  ",\"role_list_____class__auditLog_____class__divider\":": {
+    "\"background\"": "\"#000 !important\""
+  },
+  ",\"role_list_____class__auditLog_____class__changeDetails\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2) !important\""
+  },
+  ",\"class__revokeInvite\":": {
+    "\"backgroundColor\"": "\"var(--main-color-semitransparent-selected) !important\""
+  },
+  ",\"div_class__bannedUser___class__card\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"div_class__bannedUser___class__card___span\":": {
+    "\"color\"": "\"rgba(255, 255, 255, 0.5) !important\""
+  },
+  ",\"class__directoryModal\":": {
+    "\"backgroundImage\"": "\"var(--app-background) !important\""
+  },
+  ",\"class__directoryModal___class__categoryList_____class__category\":": {
+    "\"backgroundColor\"": "\"rgba(0, 0, 0, 0.1)\""
+  },
+  ",\"class__directoryModal___class__list____article\":": {
+    "\"backgroundColor\"": "\"rgba(0, 0, 0, 0.1)\""
+  },
+  ",\"class__directoryModal___class__itemsContainer_____class__itemContainer\":": {
+    "\"backgroundColor\"": "\"rgba(0, 0, 0, 0.1)\""
+  },
+  ",\"class__chat_____class__minimum\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.1) !important\""
+  },
+  ",\"class__voiceCallWrapper____class__border___class__speaking\":": {
+    "\"boxShadow\"": "\"inset 0 0 0 3px var(--accent-color), inset 0 0 0 4px #000\""
+  },
+  ",\"class__tileChild____class__border___class__speaking\":": {
+    "\"boxShadow\"": "\"inset 0 0 0 3px var(--accent-color), inset 0 0 0 4px #000\""
+  },
+  ",\"class__callContainer\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"id__popout___class__popoutWrapper_____class__scroller\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__quickSelectPopout\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"button_class__participantsButton\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.6) !important\",\"color\""
+  },
+  ",\"button_class__participantsButton__hover\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.9) !important\",\"color\""
+  },
+  ",\"class__liveQualityIndicator\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\",\"color\""
+  },
+  ",\"class__liveIndicator_____class__live\":": {
+    "\"background\"": "\"var(--main-color) !important\",\"color\""
+  },
+  ",\"class__tileChild___button____class__button\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95)\",\"color\""
+  },
+  ",\"class__tileChild___button____class__button___hover\":": {
+    "\"color\"": "\"var(--button-text-selected)\""
+  },
+  ",\"class__pictureInPictureVideo\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.9) !important\""
+  },
+  ",\"class__pictureInPictureVideo_____span_button____class__button\":": {
+    "\"background\"": "\"var(--main-color)\",\"color\""
+  },
+  ",\"class__pictureInPictureVideo_____span_button____class__button___hover\":": {
+    "\"background\"": "\"var(--main-color-selected)\",\"color\""
+  },
+  ",\"class__emptyPreview\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.3) !important\""
+  },
+  ",\"class__wanderingCubesItem\":": {
+    "\"background\"": "\"var(--accent-color) !important\""
+  },
+  ",\"class__tile\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.3) !important\",\"borderRadius\""
+  },
+  ",\"class__tileChild_____class__videoWrapper\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__tileChild____div_nth_child_2__not__class__overlay\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__tileSizer___class__tile\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__tileSizer___class__tile__button_class__button\":": {
+    "\"background\"": "\"var(--main-color)\",\"color\""
+  },
+  ",\"class__tileSizer___class__tile__button_class__button__hover\":": {
+    "\"background\"": "\"var(--main-color-selected)\",\"color\""
+  },
+  ",\"class__videoControls___class__contextMenuNub\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.6) !important\",\"transition\""
+  },
+  ",\"class__videoControls__button_class__centerButton\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.6) !important\",\"transition\""
+  },
+  ",\"class__videoControls___class__contextMenuNub__hover\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.9) !important\""
+  },
+  ",\"class__videoControls__button_class__centerButton__hover\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.9) !important\""
+  },
+  ",\"class__videoControls___class__contextMenuNub__svg\":": {
+    "\"color\"": "\"var(--button-text-selected) !important\""
+  },
+  ",\"class__videoControls__button_class__centerButton__svg\":": {
+    "\"color\"": "\"var(--button-text-selected) !important\""
+  },
+  ",\"class__videoControls__button_class__red\":": {
+    "\"transition\"": "\"0.2s all ease-in-out\",\"background\""
+  },
+  ",\"class__videoControls__button_class__red__hover\":": {
+    "\"background\"": "\"var(--main-color-selected) !important\",\"color\""
+  },
+  ",\"class__videoControls_____class__gradient\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__videoControls___class__topControls___class__headerWrapper___class__transparent__class__container\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__content___class__pageWrapper\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__selectedCategoryItem____div\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__searchPage_____class__search\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2) !important\""
+  },
+  ",\"class__searchPage_____class__search___class__searchBox\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__categoryPill____div\":": {
+    "\"color\"": "\"rgba(255, 255, 255, 0.5) !important\""
+  },
+  ",\"class__categoryPill__class__selected\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__categoryPill__class__selected____div\":": {
+    "\"color\"": "\"rgba(255, 255, 255, 0.8) !important\""
+  },
+  ",\"bd_server_splash\":": {
+    "\"filter\"": "\"none\""
+  },
+  ",\"class__stageSection\":": {
+    "\"background\"": "\"transparent\""
+  },
+  ",\"class__nowPlayingSidebar______class__container\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__stageSection______class__container______class__container\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.15)\""
+  },
+  ",\"class__stageSection______class__container______class__container___nth_last_child_2\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__guildInfoContainer______class__rightJustifiedContent_____div\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\",\"backgroundSize\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__bodyInnerWrapper\":": {
+    "\"background\"": "\"transparent !important\",\"borderColor\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__footer\":": {
+    "\"background\"": "\"transparent !important\",\"borderColor\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__avatar\":": {
+    "\"background\"": "\"transparent !important\",\"borderColor\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__userPopoutOverlayBackground\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2)\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__bodyInnerWrapper_____class__divider\":": {
+    "\"display\"": "\"none\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___permissions_popout\":": {
+    "\"paddingLeft\"": "\"16px\",\"paddingRight\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner__h1_not__class__nickname____class__ellipsis\":": {
+    "\"paddingLeft\"": "\"16px\",\"paddingRight\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__rolesList__not__class__member_perm\":": {
+    "\"paddingLeft\"": "\"16px\",\"paddingRight\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__memberSinceContainer\":": {
+    "\"paddingLeft\"": "\"16px\",\"paddingRight\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__textarea\":": {
+    "\"paddingLeft\"": "\"16px\",\"paddingRight\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner__div_class__customStatus\":": {
+    "\"paddingLeft\"": "\"16px\",\"paddingRight\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__userInfoBody__class__markup\":": {
+    "\"paddingLeft\"": "\"16px\",\"paddingRight\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__bodyTitle\":": {
+    "\"marginTop\"": "\"8px\",\"color\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__userInfoSection\":": {
+    "\"marginTop\"": "\"20px\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__member_perms_title\":": {
+    "\"textTransform\"": "\"uppercase\",\"marginBottom\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___role_tooltip___class__biteSize__class__outer\":": {
+    "\"border\"": "\"none\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___role_tooltip___class__biteSize__class__outer___class__inner\":": {
+    "\"background\"": "\"var(--profile-background), rgba(0, 0, 0, 0.95) !important\",\"border\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___role_tooltip___class__biteSize__class__outer__after\":": {
+    "\"background\"": "\"var(--profile-background), rgba(0, 0, 0, 0.95) !important\",\"border\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___role_tooltip___class__biteSize__class__outer__before\":": {
+    "\"background\"": "\"var(--profile-background), rgba(0, 0, 0, 0.95) !important\",\"border\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__roles_____class__role\":": {
+    "\"position\"": "\"relative\",\"margin\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__roles_____class__role___class__roleRemoveButton\":": {
+    "\"cursor\"": "\"pointer\",\"position\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__roles_____class__role___class__roleRemoveButton__svg\":": {
+    "\"opacity\"": "\"0\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__roles_____class__role___class__roleCircle\":": {
+    "\"position\"": "\"absolute\",\"width\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__roles_____class__role___class__roleName\":": {
+    "\"zIndex\"": "\"2\",\"marginLeft\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__roles_____class__role___class__roleName___before\":": {
+    "\"content\"": "\"\\\"\\\"\",\"position\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__roles_____class__role__hover__class__roleName\":": {
+    "\"transform\"": "\"translateX(-4px)\""
+  },
+  ",\"not__custom_profile_theme__class__biteSize___class__inner___class__roles_____class__role__hover__class__roleName___before\":": {
+    "\"width\"": "\"10px\",\"background\""
+  },
+  ",\"class__profileBanner\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__popoutBanner__not__class__BannerPremium___style\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"not__custom_profile_theme__style__profile___class__activity\":": {
+    "\"background\"": "\"var(--profile-activity) !important\",\"marginTop\""
+  },
+  ",\"not__custom_profile_theme__style__profile___class__activity___class__platformIcon\":": {
+    "\"right\"": "\"16px !important\""
+  },
+  ",\"not__custom_profile_theme__style__profile___class__activity__button\":": {
+    "\"background\"": "\"var(--main-color) !important\",\"color\""
+  },
+  ",\"not__custom_profile_theme__style__profile___class__activity__button_hover\":": {
+    "\"background\"": "\"var(--main-color-selected) !important\",\"color\""
+  },
+  ",\"not__custom_profile_theme__style__profile___class__activity___class__bar\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2) !important\""
+  },
+  ",\"not__custom_profile_theme__style__profile___class__activity___before\":": {
+    "\"content\"": "\"\\\"\\\"\",\"position\"",
+    "utf8,<svg xmlns=\\\"http": "//www.w3.org/2000/svg\\\" width=\\\"268\\\" height=\\\"21\\\" viewBox=\\\"0 0 268 21\\\"><path d=\\\"M0 21V7.19143C0 7.19143 35.3844 -2.31216 79.4578 0.530784C126.044 1.7492 142.689 13.564 202.466 14.5019C242.561 14.5019 268 7.35388 268 7.35388V21H0Z\\\"/></svg>')\",\"animation\""
+  },
+  ",\"not__custom_profile_theme__style__profile___class__activity___after\":": {
+    "\"content\"": "\"\\\"\\\"\",\"position\"",
+    "utf8,<svg xmlns=\\\"http": "//www.w3.org/2000/svg\\\" width=\\\"268\\\" height=\\\"21\\\" viewBox=\\\"0 0 268 21\\\"><path d=\\\"M0 21V7.19143C0 7.19143 35.3844 -2.31216 79.4578 0.530784C126.044 1.7492 142.689 13.564 202.466 14.5019C242.561 14.5019 268 7.35388 268 7.35388V21H0Z\\\"/></svg>')\",\"animation\""
+  },
+  ",\"class__activityUserPopout______class__horizontal_____button\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__statusBubble\":": {
+    "\"background\"": "\"rgb(0, 0, 0) !important\""
+  },
+  ",\"class__statusBubble___before\":": {
+    "\"background\"": "\"rgb(0, 0, 0) !important\""
+  },
+  ",\"class__statusBubble___after\":": {
+    "\"background\"": "\"rgb(0, 0, 0) !important\""
+  },
+  ",\"class__fullSize__class__inner\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__fullSize__class__inner___class__body__class__body__class__body\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__fullSize__class__inner___class__root__class__root\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__fullSize__class__inner___class__overlay\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2) !important\""
+  },
+  ",\"not__class__custom_profile_theme______class__userProfileModalInner\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__member___class__activityText\":": {
+    "\"color\"": "\"rgba(255, 255, 255, 0.5) !important\""
+  },
+  ",\"bd_error_modal\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.9) !important\",\"boxShadow\""
+  },
+  ",\"bd_error_modal_footer\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.9) !important\",\"boxShadow\""
+  },
+  ",\"bd_tab_bar__bd_tab_item_selected\":": {
+    "\"background\"": "\"var(--main-color)\""
+  },
+  ",\"bd_addon_error\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"bd_addon_error_icon\":": {
+    "\"background\"": "\"var(--main-color)\""
+  },
+  ",\"bd_settings_title\":": {
+    "\"color\"": "\"rgba(255, 255, 255, 0.9)\",\"fontWeight\""
+  },
+  ",\"bd_toast_not__class__success\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.9) !important\""
+  },
+  ",\"bd_button_not__bd_addon_button__not__bd_changelog_button\":": {
+    "\"background\"": "\"var(--main-color)\",\"color\""
+  },
+  ",\"bd_button_not__bd_addon_button__not__bd_changelog_button__hover\":": {
+    "\"background\"": "\"var(--main-color-selected)\",\"color\""
+  },
+  ",\"bd_switch_body\":": {
+    "\"background\"": "\"var(--accent-color-semitransparent) !important\""
+  },
+  ",\"bd_switch_checked__bd_switch_body\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"bd_switch_checked__bd_switch_body_path\":": {
+    "\"fill\"": "\"var(--main-color)\""
+  },
+  ",\"bd_addon_views___button\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"bd_addon_views___button_selected\":": {
+    "\"background\"": "\"var(--main-color-selected) !important\""
+  },
+  ",\"bd_addon_card\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2) !important\""
+  },
+  ",\"bd_addon_button\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"bd_controls____bd_addon_button_last_of_type\":": {
+    "\"marginLeft\"": "\"10px\""
+  },
+  ",\"role_radiogroup___aria_checked_true___style__green\":": {
+    "\"background\"": "\"rgba(0, 230, 77, 0.2) !important\""
+  },
+  ",\"role_radiogroup___aria_checked_true___style__yellow\":": {
+    "\"background\"": "\"rgba(255, 153, 0, 0.2) !important\""
+  },
+  ",\"role_radiogroup___aria_checked_true___style__red\":": {
+    "\"background\"": "\"rgba(244, 40, 40, 0.2) !important\""
+  },
+  ",\"role_radiogroup_____class__item\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.1)\""
+  },
+  ",\"role_radiogroup_____class__item__hover\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2)\""
+  },
+  ",\"role_radiogroup_____class__item__aria_checked_true\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.4)\""
+  },
+  ",\"role_radiogroup_____class__item__aria_checked_true___class__radioBar__div_not__class__info___circle\":": {
+    "\"fill\"": "\"rgb(255, 255, 255)\""
+  },
+  ",\"class__session_____class__sessionIcon\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.1) !important\",\"color\""
+  },
+  ",\"class__connectedAccounts_____class__wrapper\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.3) !important\",\"border\""
+  },
+  ",\"class__connectedAccounts_____class__wrapper__hover\":": {
+    "\"transform\"": "\"scale(1.05)\",\"background\""
+  },
+  ",\"class__connectionList_____class__connection\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.3) !important\",\"border\""
+  },
+  ",\"class__slider______class__track______class__mark____class__markValue\":": {
+    "\"color\"": "\"rgba(255, 255, 255, 0.5) !important\""
+  },
+  ",\"class__slider______class__track______class__mark____class__markDash\":": {
+    "\"background\"": "\"rgba(255, 255, 255, 0.5) !important\""
+  },
+  ",\"class__keybindGroup__button\":": {
+    "\"background\"": "\"var(--main-color) !important\",\"color\""
+  },
+  ",\"class__keybindGroup__button_hover\":": {
+    "\"background\"": "\"var(--main-color-selected) !important\",\"color\""
+  },
+  ",\"class__removeKeybind\":": {
+    "\"backgroundColor\"": "\"var(--main-color-selected)\""
+  },
+  ",\"class__children____class__notDetected\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.3) !important\""
+  },
+  ",\"class__children____class__nowPlaying\":": {
+    "\"background\"": "\"rgba(0, 255, 128, 0.2) !important\""
+  },
+  ",\"class__addGamePopout\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.9) !important\",\"boxShadow\""
+  },
+  ",\"id__popout___class__searchableSelect\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\",\"boxShadow\""
+  },
+  ",\"class__lastPlayed\":": {
+    "\"color\"": "\"rgba(255, 255, 255, 0.5) !important\""
+  },
+  ",\"class__overlayToggleIconOn___path\":": {
+    "\"fill\"": "\"rgba(255, 255, 255, 0.5) !important\""
+  },
+  ",\"class__overlayToggleIconOff___path\":": {
+    "\"fill\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__overlayToggleIconOff___rect\":": {
+    "\"fill\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__removeGame\":": {
+    "\"backgroundColor\"": "\"var(--main-color-semitransparent-selected) !important\""
+  },
+  ",\"class__overlayStatusText\":": {
+    "\"color\"": "\"rgba(255, 255, 255, 0.5) !important\""
+  },
+  ",\"class__notificationSettings__label_not__class__selected____class__disabled\":": {
+    "\"background\"": "\"rgba(255, 255, 255, 0.5)\""
+  },
+  ",\"class__notificationSettings__label_not__class__selected____class__disabled___hover\":": {
+    "\"background\"": "\"rgba(255, 255, 255, 0.7)\""
+  },
+  ",\"class__notificationSettings__label_class__selected__not__class__disabled\":": {
+    "\"background\"": "\"var(--main-color)\",\"borderColor\""
+  },
+  ",\"class__notificationSettings___class__disabledSelected\":": {
+    "\"borderColor\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__notificationSettings__label_class__disabled__path_last_child\":": {
+    "\"fill\"": "\"rgba(255, 255, 255, 0.5)\""
+  },
+  ",\"class__notificationSettings__label_class__disabled__hover_path_last_child\":": {
+    "\"fill\"": "\"rgba(255, 255, 255, 0.7)\""
+  },
+  ",\"class__notificationSettings__label_class__selected__class__disabled__path_last_child\":": {
+    "\"fill\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__accountProfileCard\":": {
+    "\"background\"": "\"var(--profile-background), rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__accountProfileCard___class__fieldButton\":": {
+    "\"background\"": "\"var(--main-color) !important\",\"color\""
+  },
+  ",\"class__accountProfileCard___class__fieldButton___hover\":": {
+    "\"background\"": "\"var(--main-color-selected) !important\",\"color\""
+  },
+  ",\"class__profileBannerPreview\":": {
+    "\"background\"": "\"var(--profile-background), rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__standardSidebarView_____class__sidebarRegion___class__info\":": {
+    "\"color\"": "\"rgba(255, 255, 255, 0.5)\""
+  },
+  ",\"class__standardSidebarView_____class__sidebarRegion___class__sidebar____class__item__class__bd\":": {
+    "\"paddingLeft\"": "\"50px !important\""
+  },
+  ",\"class__standardSidebarView_____class__sidebarRegion___class__sidebar____class__item__aria_controls\":": {
+    "\"paddingLeft\"": "\"50px !important\""
+  },
+  ",\"class__standardSidebarView_____class__sidebarRegion___class__sidebar____class__item__hover\":": {
+    "\"background\"": "\"var(--main-color-semitransparent) !important\",\"color\""
+  },
+  ",\"class__standardSidebarView_____class__sidebarRegion___class__sidebar____class__item__class__selected\":": {
+    "\"background\"": "\"var(--main-color-semitransparent-selected) !important\",\"color\""
+  },
+  ",\"class__standardSidebarView_____class__sidebarRegion___class__sidebar____class__item__aria_controls_discord_nitro_tab__svg\":": {
+    "\"display\"": "\"none\""
+  },
+  ",\"class__standardSidebarView_____class__sidebarRegion___class__sidebar____class__item___class__selectedBackground\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__standardSidebarView_____class__sidebarRegion___class__sidebar____class__item___after\":": {
+    "\"content\"": "\"\\\"\\\"\",\"position\""
+  },
+  ",\"class__standardSidebarView_____class__sidebarRegion___class__sidebar____class__selected___after\":": {
+    "\"opacity\"": "\"0.7\""
+  },
+  ",\"aria_controls_my_account_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_profile_customization_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls__privacy___safety_tab____after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_authorized_apps_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_sessions_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_connections_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_friend_requests_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_discord_nitro_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_nitro_server_boost_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_subscriptions_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_library_inventory_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_billing_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_appearance_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_accessibility_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls__voice___video_tab____after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls__text___images_tab____after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_notifications_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_keybinds_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_language_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_windows_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_streamer_mode_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_advanced_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_activity_privacy_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_game_activity_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_overlay_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"bd_settings_tab__after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"bd_emotes_tab__after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"bd_updates_tab__after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"bd_customcss_tab__after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"bd_plugins_tab__after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"bd_themes_tab__after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_changelog_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_hypesquad_online_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"aria_controls_logout_tab___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"class__base___class__content___class__container__not__class__embedWrapper\":": {
+    "\"background\"": "\"transparent\""
+  },
+  ",\"class__base___class__content___class__container__not__class__embedWrapper____class__container_____class__children___after\":": {
+    "\"display\"": "\"none\""
+  },
+  ",\"class__base___class__content___class__container__not__class__embedWrapper____class__iconWrapper__svg\":": {
+    "\"color\"": "\"rgba(255, 255, 255, 0.7)\""
+  },
+  ",\"class__base___class__content___class__container__not__class__embedWrapper____class__divider\":": {
+    "\"backgroundColor\"": "\"rgba(255, 255, 255, 0.1)\""
+  },
+  ",\"class__base___class__content___class__container__not__class__embedWrapper____class__item__tabindex__0\":": {
+    "\"background\"": "\"transparent\",\"fontSize\""
+  },
+  ",\"class__base___class__content___class__container__not__class__embedWrapper____class__item__not__tabindex__0____hover\":": {
+    "\"background\"": "\"transparent\""
+  },
+  ",\"class__base___class__content___class__container__not__class__embedWrapper____class__item__class__addFriend\":": {
+    "\"background\"": "\"rgba(0, 255, 128, 0.1) !important\",\"color\""
+  },
+  ",\"class__base___class__content___class__container__not__class__embedWrapper____class__item__class__addFriend__hover\":": {
+    "\"background\"": "\"rgba(0, 255, 128, 0.2) !important\",\"color\""
+  },
+  ",\"class__base___class__content___class__container__not__class__embedWrapper____class__item__class__addFriend__class__selected\":": {
+    "\"background\"": "\"rgba(0, 255, 128, 0.2) !important\",\"color\""
+  },
+  ",\"class__base___class__content___class__container__not__class__embedWrapper____class__searchBar_____class__inner\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2)\""
+  },
+  ",\"class__base___class__content___class__container__not__class__embedWrapper____class__addFriendInputWrapper\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.4)\",\"borderColor\""
+  },
+  ",\"class__base___class__content___class__container__not__class__embedWrapper____class__addFriendInputWrapper__button\":": {
+    "\"background\"": "\"var(--main-color)\",\"color\""
+  },
+  ",\"class__base___class__content___class__container__not__class__embedWrapper____class__addFriendInputWrapper__button_hover\":": {
+    "\"background\"": "\"var(--main-color-selected)\",\"color\""
+  },
+  ",\"class__nowPlayingColumn___class__scroller\":": {
+    "\"border\"": "\"0\""
+  },
+  ",\"class__nowPlayingColumn___class__itemCard\":": {
+    "\"border\"": "\"0\",\"background\""
+  },
+  ",\"class__nowPlayingColumn___class__itemCard___class__body\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__nowPlayingColumn___class__itemCard___class__body___class__separator\":": {
+    "\"display\"": "\"none\""
+  },
+  ",\"class__content_____class__channel___class__interactive__hover\":": {
+    "\"background\"": "\"var(--main-color-semitransparent)\",\"color\""
+  },
+  ",\"class__content_____class__channel___class__interactive__class__selected\":": {
+    "\"background\"": "\"var(--main-color-semitransparent-selected)\",\"color\""
+  },
+  ",\"class__applicationStore\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__applicationStore__button\":": {
+    "\"background\"": "\"var(--main-color) !important\",\"color\""
+  },
+  ",\"class__applicationStore__button_hover\":": {
+    "\"background\"": "\"var(--main-color-selected) !important\",\"color\""
+  },
+  ",\"class__applicationStore___class__marketingRefreshSectionTier\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__applicationStore___class__feature____li_class__feature\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.3)\""
+  },
+  ",\"class__perksModal\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__progressBar_____class__barBackground\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__tierMarkerGroup_____class__tierMarkerBackground\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__tierMarkerGroup___class__tierMarkerInProgress\":": {
+    "\"background\"": "\"var(--main-color-selected) !important\""
+  },
+  ",\"class__carousel___class__tier\":": {
+    "\"background\"": "\"var(--profile-background), rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__carousel___class__tier____class__tierHeader\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.1) !important\""
+  },
+  ",\"class__carousel___class__tier____class__tierHeaderLocked__path\":": {
+    "\"fill\"": "\"rgba(255, 255, 255, 0.5)\""
+  },
+  ",\"class__carousel___class__tier____class__tierBody\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"class__perks____li_class__perk\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.3)\""
+  },
+  ",\"class__progress__rect_class__background\":": {
+    "\"fill\"": "\"var(--scroll-thumb-color)\""
+  },
+  ",\"class__progress___class__tierInProgress\":": {
+    "\"background\"": "\"var(--scroll-thumb-color)\""
+  },
+  ",\"class__tiers_____class__tier\":": {
+    "\"background\"": "\"var(--profile-background), rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__tiers_____class__tier____class__tierHeader\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.1) !important\""
+  },
+  ",\"class__tiers_____class__tier____class__tierHeaderLocked__path\":": {
+    "\"fill\"": "\"rgba(255, 255, 255, 0.5)\""
+  },
+  ",\"class__tiers_____class__tier____class__tierBody\":": {
+    "\"background\"": "\"transparent !important\""
+  },
+  ",\"permissions_modal\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.9) !important\""
+  },
+  ",\"permissions_modal_div\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.9) !important\""
+  },
+  ",\"permissions_modal_div_div\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.9) !important\""
+  },
+  ",\"ChannelDms_channelpopout_popout\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"ChannelDms_channelpopout_popout____role_button\":": {
+    "\"backgroundColor\"": "\"var(--main-color-semitransparent-selected) !important\""
+  },
+  ",\"ChannelDms_channelpopout_popout___button\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\",\"borderRadius\""
+  },
+  ",\"ChannelDms_channelmembers_wrap____class__header\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.1) !important\""
+  },
+  ",\"class__messagesWrapper___class__topicsPillContainer___before\":": {
+    "\"content\"": "\"\\\"\\\"\",\"top\""
+  },
+  ",\"class__messagesWrapper___class__newTopicsBarContainer___before\":": {
+    "\"content\"": "\"\\\"\\\"\",\"top\""
+  },
+  ",\"class__messagesWrapper___class__topicsDropdown\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__messagesWrapper___class__summariesBetaTag\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"vc_notification_root\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.5)\""
+  },
+  ",\"class__app___class__authBox\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.5)\""
+  },
+  ",\"class__badgeContainer\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.2)\""
+  },
+  ",\"class__numberBadge\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__live___class__textBadge\":": {
+    "\"background\"": "\"var(--main-color-selected) !important\",\"color\""
+  },
+  ",\"class__akaBadge\":": {
+    "\"background\"": "\"var(--main-color) !important\",\"color\""
+  },
+  ",\"class__iconBadge\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"class__newChannel__class__textBadge\":": {
+    "\"background\"": "\"var(--main-color) !important\",\"color\""
+  },
+  ",\"class__newBadge\":": {
+    "\"background\"": "\"var(--main-color) !important\",\"color\""
+  },
+  ",\"id__popout____div____role_dialog\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\",\"borderRadius\""
+  },
+  ",\"id__popout____div____class__container\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\",\"borderRadius\""
+  },
+  ",\"id__popout____div____class__popout\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\",\"borderRadius\""
+  },
+  ",\"class__noticeRegion_____class__container\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.85) !important\",\"boxShadow\""
+  },
+  ",\"role_dialog___class__contentWrapper\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__popoutContainer\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__popoutContainer__button\":": {
+    "\"background\"": "\"var(--main-color)\",\"color\""
+  },
+  ",\"class__popoutContainer__button_hover\":": {
+    "\"background\"": "\"var(--main-color-selected)\",\"color\""
+  },
+  ",\"class__app______class__fixClipping\":": {
+    "\"background\"": "\"linear-gradient(rgba(0, 0, 0, 0.1333333333), black) !important\""
+  },
+  ",\"class__noiseCancellationPopout\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__keyboardShortcutsModal\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__quickswitcher\":": {
+    "\"height\"": "\"100% !important\",\"boxShadow\""
+  },
+  ",\"class__quickswitcher__input\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__focusLock___class__root\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\",\"boxShadow\""
+  },
+  ",\"class__focusLock___class__root___class__directionRow\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__focusLock___class__root___class__body\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__focusLock___class__root___class__topSection\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\""
+  },
+  ",\"class__focusLock___class__root___class__avatar\":": {
+    "\"border\"": "\"none\""
+  },
+  ",\"class__focusLock___class__root___class__message\":": {
+    "\"background\"": "\"transparent !important\",\"border\""
+  },
+  ",\"div_class__notice\":": {
+    "\"color\"": "\"var(--button-text) !important\",\"background\""
+  },
+  ",\"div_class__notice__button\":": {
+    "\"color\"": "\"var(--button-text) !important\",\"background\""
+  },
+  ",\"div_class__notice__button_hover\":": {
+    "\"color\"": "\"var(--button-text-selected) !important\",\"background\""
+  },
+  ",\"guild_context_invite_people_not__hover\":": {
+    "\"color\"": "\"var(--accent-color)\""
+  },
+  ",\"channel_context_invite_people_not__hover\":": {
+    "\"color\"": "\"var(--accent-color)\""
+  },
+  ",\"guild_header_popout_invite_people_not__hover\":": {
+    "\"color\"": "\"var(--accent-color)\""
+  },
+  ",\"class__flowerStar_____path\":": {
+    "\"fill\"": "\"var(--accent-saturated) !important\""
+  },
+  ",\"class__flowerStar______class__child__path\":": {
+    "\"fill\"": "\"#ffffff !important\""
+  },
+  ",\"class__homeIcon\":": {
+    "\"transform\"": "\"rotate(-180deg)\""
+  },
+  ",\"data_list_item_id_guildsnav___home__hover___div\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"data_list_item_id_guildsnav___home__class__selected____div\":": {
+    "\"background\"": "\"var(--main-color) !important\""
+  },
+  ",\"href__https___support_discord_com\":": {
+    "\"display\"": "\"none !important\""
+  },
+  ",\"class__title_____class__toolbar_____class__icon__nth_child_2\":": {
+    "\"display\"": "\"none !important\""
+  },
+  ",\"class__nameAndDecorators___class__botTagRegular\":": {
+    "\"transform\"": "\"translateY(-2px)\""
+  },
+  ",\"class__botTagRegular\":": {
+    "\"background\"": "\"transparent !important\",\"position\""
+  },
+  ",\"class__botTagRegular__not__class__WithNickname\":": {
+    "\"top\"": "\"0\",\"right\""
+  },
+  ",\"class__botTagRegular__class__WithNickname\":": {
+    "\"position\"": "\"absolute\",\"transform\""
+  },
+  ",\"class__botTagRegular___class__botText\":": {
+    "\"display\"": "\"none\""
+  },
+  ",\"class__botTagRegular___after\":": {
+    "\"background\"": "\"url(https"
+  },
+  ",\"class__botTagRegular____svg\":": {
+    "\"color\"": "\"#fff\",\"transform\""
+  },
+  ",\"class__card___not__class__justify\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.3) !important\",\"borderColor\""
+  },
+  ",\"class__card___class__justify\":": {
+    "\"boxShadow\"": "\"none\""
+  },
+  ",\"class__mediaBarWrapper___class__fakeEdges\":": {
+    "\"background\"": "\"var(--main-color)\""
+  },
+  ",\"class__mediaBarWrapper___class__fakeEdges___after\":": {
+    "\"background\"": "\"var(--main-color)\""
+  },
+  ",\"class__mediaBarWrapper___class__fakeEdges___before\":": {
+    "\"background\"": "\"var(--main-color)\""
+  },
+  ",\"class__mediaBarWrapper___class__mediaBarProgress\":": {
+    "\"background\"": "\"var(--main-color)\""
+  },
+  ",\"class__mediaBarWrapper___class__mediaBarProgress___after\":": {
+    "\"background\"": "\"var(--main-color)\""
+  },
+  ",\"class__mediaBarWrapper___class__mediaBarProgress___before\":": {
+    "\"background\"": "\"var(--main-color)\""
+  },
+  ",\"class__mediaBarWrapper___class__mediaBarProgress___class__mediaBarGrabber\":": {
+    "\"background\"": "\"var(--main-color)\""
+  },
+  ",\"class__mediaBarWrapper___class__bubble\":": {
+    "\"background\"": "\"var(--main-color)\""
+  },
+  ",\"class__embedVideo___class__playPausePop\":": {
+    "\"display\"": "\"none !important\""
+  },
+  ",\"class__streamPreviewWrapper___class__streamPreview\":": {
+    "\"background\"": "\"rgba(0, 0, 0, 0.95) !important\",\"border\""
+  },
+  ",\"class__streamPreviewWrapper___class__streamPreview___class__previewContainer\":": {
+    "\"background\"": "\"transparent !important\",\"border\""
+  },
+  ",\"class__socialLinks___after\":": {
+    "\"content\"": "\"\\\"\\\"\",\"position\""
+  },
+  ",\"class__wordmark__svg\":": {
+    "\"display\"": "\"none\""
+  },
+  ",\"class__wordmark___before\":": {
+    "\"content\"": "\"\\\"Novum\\\"\",\"marginLeft\""
+  },
+  ",\"class__wordmark___after\":": {
+    "\"content\"": "\"\\\"v5.8.6\\\"\",\"marginLeft\""
+  }
+}
